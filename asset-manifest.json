@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SwagSpotV1/static/css/main.86e3718f.css",
+    "main.js": "/SwagSpotV1/static/js/main.98a45f8d.js",
+    "static/media/instructor2.jpeg": "/SwagSpotV1/static/media/instructor2.fccce737ce32bce56e1c.jpeg",
+    "static/media/instructor3.jpeg": "/SwagSpotV1/static/media/instructor3.1934b2aafdceeab81d72.jpeg",
+    "static/media/aboutus2.jpeg": "/SwagSpotV1/static/media/aboutus2.891bbaf6295475e8fe0c.jpeg",
+    "static/media/aboutus3.jpeg": "/SwagSpotV1/static/media/aboutus3.7cb88883ed1527182798.jpeg",
+    "static/media/googlemap.webp": "/SwagSpotV1/static/media/googlemap.28743200acdaf1c1fc49.webp",
+    "static/media/aboutus1.jpeg": "/SwagSpotV1/static/media/aboutus1.ecddd72bf89dacf74107.jpeg",
+    "static/media/instructor5.jpeg": "/SwagSpotV1/static/media/instructor5.8de6e1c78c4deb859e8b.jpeg",
+    "static/media/instructor1.jpeg": "/SwagSpotV1/static/media/instructor1.9b2c34b6f4b7768327b1.jpeg",
+    "static/media/instructor4.jpeg": "/SwagSpotV1/static/media/instructor4.d4345e5dbd918819b3ee.jpeg",
+    "static/media/homepage.jpeg": "/SwagSpotV1/static/media/homepage.e200897f46fbc0aeb13c.jpeg",
+    "static/media/instructor6.jpeg": "/SwagSpotV1/static/media/instructor6.bf80f2545883f46f99d9.jpeg",
+    "index.html": "/SwagSpotV1/index.html",
+    "main.86e3718f.css.map": "/SwagSpotV1/static/css/main.86e3718f.css.map",
+    "main.98a45f8d.js.map": "/SwagSpotV1/static/js/main.98a45f8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e3718f.css",
+    "static/js/main.98a45f8d.js"
+  ]
+}
