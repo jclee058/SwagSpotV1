@@ -88,7 +88,7 @@ export default function Contact(){
                         </InputGroup>
                     </Row>
                     <div>
-                        <Button variant="dark" className="confirmRegBtn"> Submit Form </Button>
+                        <Button variant="dark" className="submitBtn"> Submit Form </Button>
                     </div>
                     <Row>
                         <Col>
