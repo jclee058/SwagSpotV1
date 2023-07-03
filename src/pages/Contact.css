@@ -1,0 +1,43 @@
+.contactForm{
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.contactFormTitle{
+    margin-top: 10px;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 50px !important;
+}
+
+.contactFormSubTitle{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 35px !important;
+}
+
+.contactFormSubText{
+    font-family: 'Barlow', sans-serif;
+    font-size: 18px !important;
+}
+
+.formInputBox{
+    margin-bottom: 20px;
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px !important;
+}
+
+.mb-3{
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px !important;
+    margin-bottom: 40px !important;
+}
+
+.submitBtn{
+    display: flex;
+    margin-left: auto;
+    margin-top: 20px;
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px !important;
+
+}
